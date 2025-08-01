@@ -1929,7 +1929,7 @@
         Y = s(7568),
         K = s(7582),
         X = {
-          src: "//_next/static/media/external-link.4da08ec5.svg",
+          src: "/_next/static/media/external-link.4da08ec5.svg",
           height: 16,
           width: 16,
         },
@@ -2444,14 +2444,14 @@
                         (0, i.jsx)("h2", {
                           className:
                             "text-xl md:font-semibold flex items-center gap-2 text-white font-ocr",
-                          children: "$ BUY SPON",
+                          children: "BUY $SPON",
                         }),
                         (0, i.jsx)("div", {
                           className:
-                            "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 w-full justify-items-center",
+                            "w-full justify-items-center",
                           children: J.map(function (e) {
                             return (0,
-                            i.jsx)("a", { className: "w-full max-w-[200px]", href: e.link, target: "_blank", children: (0, i.jsxs)("div", { className: "text-white hover:border-gray-600 flex justify-between !items-center gap-2 rounded-sm !px-3 !py-2 bg-white bg-opacity-10 hover:bg-opacity-20 duration-300 !border-gray-700 transition-all ", children: [(0, i.jsxs)("div", { className: "flex flex-row gap-2", children: [e.logo, e.name] }), (0, i.jsx)(m(), { src: X, alt: "external link", width: 16, height: 16, className: "ml-auto transition-opacity duration-300 hover:opacity-80" })] }) }, e.id);
+                            i.jsx)("a", { className: "w-full max-w-[200px]", href: e.link, target: "_blank", children: (0, i.jsxs)("div", { className: "text-white hover:border-gray-600 flex justify-between !items-center gap-2 rounded-sm !px-3 !py-2 bg-white bg-opacity-10 hover:bg-opacity-20 duration-300 !border-gray-700 transition-all ", children: [(0, i.jsxs)("div", { className: "flex flex-row gap-2", children: [e.logo, e.name] }), (0, i.jsx)(m(), { src: X, alt: "external link", width: 16, height: 16, className: "hidden ml-auto transition-opacity duration-300 hover:opacity-80" })] }) }, e.id);
                           }),
                         }),
                       ],

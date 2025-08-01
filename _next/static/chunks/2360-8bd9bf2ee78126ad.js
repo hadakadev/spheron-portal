@@ -1256,7 +1256,7 @@
             (e.APP_LOGIN = "https://app.spheron.network/#/login"),
             (e.APP_SIGNUP = "https://app.spheron.network/#/signup"),
             (e.PROVIDER_APP = "https://provider.spheron.network"),
-            (e.CONSOLE_APP = "https://console.spheron.network"),
+            (e.CONSOLE_APP = "https://console.spheronai.network"),
             (e.FIZZ_NODE_APP = "https://fizz.spheron.network/"),
             (e.FIZZ_NODE_DOCS = "https://docs.spheron.network/fizz"),
             (e.DOCS = "https://docs.spheron.network"),

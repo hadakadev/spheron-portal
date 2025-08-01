@@ -82,7 +82,7 @@
             o =
               void 0 === a
                 ? function () {
-                    window.open(r.rC.FIZZ_NODE_APP, "_blank");
+                    window.open("https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon", "_blank");
                   }
                 : a;
           return (0, i.jsx)("button", {

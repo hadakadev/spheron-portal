@@ -866,19 +866,19 @@
               {
                 title: "Contact Us",
                 handleClick: function () {
-                  window.open(a.rC.CONTACT_US);
+                  window.open("mailto:admin@spheronai.network");
                 },
               },
               {
                 title: "X (formly Twitter)",
                 handleClick: function () {
-                  window.open(a.rC.FOUNDATION);
+                  window.open("https://x.com/Spheron_AI_Net");
                 },
               },
               {
                 title: "Telegram",
                 handleClick: function () {
-                  window.open(a.rC.MAREKTINGKIT);
+                  window.open("https://t.me/Spheron_AI_Network");
                 },
               },
             ],

@@ -276,7 +276,7 @@
                   className: "lg:w-[215px] w-full flex flex-col items-center",
                   children: (0, i.jsx)(c, {
                     onClick: function () {
-                      window.open("https://fizz.spheron.network", "_blank");
+                      window.open("https://fizz.spheronai.network", "_blank");
                     },
                   }),
                 }),
@@ -757,7 +757,7 @@
                       customText: "SDK Docs",
                       onClick: function () {
                         window.open(
-                          "https://docs.spheron.network/protocol-sdk",
+                          "https://docs.spheronai.network",
                           "_blank"
                         );
                       },
@@ -769,7 +769,7 @@
                       customText: "CLI Docs",
                       onClick: function () {
                         window.open(
-                          "https://docs.spheron.network/rent-gpu/protocol-cli",
+                          "https://docs.spheronai.network",
                           "_blank"
                         );
                       },
@@ -2617,7 +2617,7 @@
                     text: "Introducing $SPON",
                     // onClick: function () {
                     //   return window.open(
-                    //     "https://foundation.spheron.network/knowledge-gallery/token-utility"
+                    //     "https://foundation.spheronai.network/knowledge-gallery/token-utility"
                     //   );
                     // },
                   }),

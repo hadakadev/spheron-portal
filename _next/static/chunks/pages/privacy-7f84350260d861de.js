@@ -263,7 +263,7 @@
                 children: [
                   (0, a.jsx)("p", {
                     children:
-                      "This Privacy Policy is issued by Spheron Network. (\u201cUs\u201d or \u201cWe\u201d or \u201cOur\u201d or \u201cCompany\u201d). Please note the terms of this Privacy Policy (\u201cPrivacy Policy\u201d) are for the reference of the User (\u201cUser\u201d or \u201cConsumer\u201d or \u201cYou\u201d or \u201cYour\u201d) which is available on (HTTPS://SPHERON.NETWORK). (\u201cPlatform\u201d). Our Services governs the manner in which any data from which You can be identified (\u201cPersonal Data\u201d) is collected, processed, stored, transferred, and used by Us under Applicable Law. If You are not a User as suggested the Privacy Policy will not be applicable to You or Your affiliates or any party accessing the platform. The User hereby agrees and confirms that availing of the Services means that the User has explicitly consented to the terms of this Privacy Policy.",
+                      "This Privacy Policy is issued by Spheron Network. (\u201cUs\u201d or \u201cWe\u201d or \u201cOur\u201d or \u201cCompany\u201d). Please note the terms of this Privacy Policy (\u201cPrivacy Policy\u201d) are for the reference of the User (\u201cUser\u201d or \u201cConsumer\u201d or \u201cYou\u201d or \u201cYour\u201d) which is available on (HTTPS://spheronai.network). (\u201cPlatform\u201d). Our Services governs the manner in which any data from which You can be identified (\u201cPersonal Data\u201d) is collected, processed, stored, transferred, and used by Us under Applicable Law. If You are not a User as suggested the Privacy Policy will not be applicable to You or Your affiliates or any party accessing the platform. The User hereby agrees and confirms that availing of the Services means that the User has explicitly consented to the terms of this Privacy Policy.",
                   }),
                   (0, a.jsx)("h2", {
                     className: "text-2xl font-semibold uppercase",
@@ -935,7 +935,7 @@
                   }),
                   (0, a.jsx)("p", {
                     children:
-                      "We do not knowingly collect or solicit Personal Data from anyone under the age of 16 years. If You are under 16 years, please do not attempt to register for the Services or send any Personal Data about You to us. If We learn that We have collected Personal information from a child under age 16, We will delete that information as quickly as possible. If You believe that a child under 16 may have provided Us Personal Data, please contact us at info@spheron.network.",
+                      "We do not knowingly collect or solicit Personal Data from anyone under the age of 16 years. If You are under 16 years, please do not attempt to register for the Services or send any Personal Data about You to us. If We learn that We have collected Personal information from a child under age 16, We will delete that information as quickly as possible. If You believe that a child under 16 may have provided Us Personal Data, please contact us at info@spheronai.network.",
                   }),
                   (0, a.jsx)("h2", {
                     className: "text-2xl font-semibold",
@@ -976,9 +976,9 @@
                       'To keep Your information accurate, current, and complete, please contact Us as specified below. We will take reasonable steps to update any information in Our possession that You have previously submitted via the Platform. Note that You may also manage Your communications preferences and the receipt of any commercial communication by clicking the "unsubscribe" link included at the bottom of all emails from Spheron. You may also adjust Your preferences through Your account settings if You have a Spheron account, or send an email to',
                       " ",
                       (0, a.jsx)("a", {
-                        href: "mailto:info@spheron.network",
+                        href: "mailto:info@spheronai.network",
                         className: "text-blue-600 hover:underline",
-                        children: "info@spheron.network",
+                        children: "info@spheronai.network",
                       }),
                       ".",
                     ],
@@ -992,9 +992,9 @@
                       "If you have any questions or suggestions regarding this Privacy Policy, please contact us at",
                       " ",
                       (0, a.jsx)("a", {
-                        href: "mailto:info@spheron.network",
+                        href: "mailto:info@spheronai.network",
                         className: "text-blue-600 hover:underline",
-                        children: "info@spheron.network",
+                        children: "info@spheronai.network",
                       }),
                       ".",
                     ],

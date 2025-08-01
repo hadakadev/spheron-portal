@@ -275,7 +275,7 @@
                     id: 1,
                     label: "Telegram",
                     onClick: function () {
-                      return window.open("https://t.me/");
+                      return window.open("https://t.me/Spheron_AI_Network");
                     },
                     icon: null,
                   },
@@ -283,7 +283,7 @@
                     id: 2,
                     label: "Twitter / X",
                     onClick: function () {
-                      return window.open("https://x.com/");
+                      return window.open("https://x.com/Spheron_AI_Net");
                     },
                     icon: null,
                   },
@@ -1251,18 +1251,18 @@
             (e.TELEGRAM = "https://sphn.wiki/tg"),
             (e.LINKEDIN = "https://sphn.wiki/linkedin"),
             (e.YOUTUBE = "https://sphn.wiki/yt"),
-            (e.COMMUNITY = "https://community.spheron.network/"),
-            (e.APP = "https://app.spheron.network"),
-            (e.APP_LOGIN = "https://app.spheron.network/#/login"),
-            (e.APP_SIGNUP = "https://app.spheron.network/#/signup"),
-            (e.PROVIDER_APP = "https://provider.spheron.network"),
+            (e.COMMUNITY = "https://community.spheronai.network/"),
+            (e.APP = "https://app.spheronai.network"),
+            (e.APP_LOGIN = "https://app.spheronai.network/#/login"),
+            (e.APP_SIGNUP = "https://app.spheronai.network/#/signup"),
+            (e.PROVIDER_APP = "https://provider.spheronai.network"),
             (e.CONSOLE_APP = "https://console.spheronai.network"),
-            (e.FIZZ_NODE_APP = "https://fizz.spheron.network/"),
-            (e.FIZZ_NODE_DOCS = "https://docs.spheron.network/fizz"),
-            (e.DOCS = "https://docs.spheron.network"),
+            (e.FIZZ_NODE_APP = "https://fizz.spheronai.network/"),
+            (e.FIZZ_NODE_DOCS = "https://docs.spheronai.network"),
+            (e.DOCS = "https://docs.spheronai.network"),
             (e.CHANGELOG = "/changelog"),
             (e.PARTNER = "/partner"),
-            (e.BLOG = "https://blog.spheron.network"),
+            (e.BLOG = "https://blog.spheronai.network"),
             (e.TWITTER = "https://sphn.wiki/x"),
             (e.GITHUB = "https://github.com/spheron-core"),
             (e.REPORTURL = "https://b4t4v7fj3cd.typeform.com/to/Ta5C0UDZ"),
@@ -1272,46 +1272,46 @@
             (e.CLINPM = "https://www.npmjs.com/package/@spheron/cli"),
             (e.STORAGENPM = "https://www.npmjs.com/package/@spheron/storage"),
             (e.CUSTOM_FORM = "https://b4t4v7fj3cd.typeform.com/sphnent"),
-            (e.COMPUTE_DOCS = "https://docs.spheron.network/compute"),
-            (e.SDK_DOCS = "https://docs.spheron.network/sdk/"),
-            (e.CLI_DOCS = "https://docs.spheron.network/rent-gpu/protocol-cli"),
+            (e.COMPUTE_DOCS = "https://docs.spheronai.network"),
+            (e.SDK_DOCS = "https://docs.spheronai.network"),
+            (e.CLI_DOCS = "https://docs.spheronai.network"),
             (e.IPFSGATEWAY_DOCS =
-              "https://docs.spheron.network/gateways/dedicated/"),
+              "https://docs.spheronai.network"),
             (e.MARKETPLACE_GUIDE =
-              "https://docs.spheron.network/marketplace-guide/"),
+              "https://docs.spheronai.network"),
             (e.DECENTRALIZED_HOSTING_DOCS =
-              "https://docs.spheron.network/static/deployment/logs/"),
+              "https://docs.spheronai.network"),
             (e.DECENTRALIZED_COMPUTE_DOCS =
-              "https://docs.spheron.network/compute/cluster/compute/"),
-            (e.STORAGE_DOCS = "https://docs.spheron.network/sdk/"),
+              "https://docs.spheronai.network"),
+            (e.STORAGE_DOCS = "https://docs.spheronai.network/"),
             (e.DEMO =
               "https://meetings.hubspot.com/prashant-maurya/product-demo-landing"),
-            (e.IPNS = "https://docs.spheron.network/sdk/storage/#publish-ipns"),
+            (e.IPNS = "https://docs.spheronai.network"),
             (e.SPHERONGPT =
               "https://sphn.notion.site/SpheronGPT-bd176612fe4742df892a5266613bd32c"),
-            (e.DOCS_STORAGE = "https://docs.spheron.network/sdk/storage/"),
+            (e.DOCS_STORAGE = "https://docs.spheronai.network"),
             (e.BUCKET_DOMAIN =
-              "https://docs.spheron.network/storage/buckets/domain/"),
+              "https://docs.spheronai.network"),
             (e.ANNOUNCEMENT_LINK =
-              "https://blog.spheron.network/dive-into-spherons-v1-whitepaper"),
+              "https://blog.spheronai.network/dive-into-spherons-v1-whitepaper"),
             (e.SPACESHIP = "https://b4t4v7fj3cd.typeform.com/to/eY9Z8Ihf"),
             (e.STORAGE_PRICING =
-              "https://spheron.network/pricing/compare/#storage"),
+              "https://spheronai.network/pricing/compare/#storage"),
             (e.STATIC_PRICING =
-              "https://spheron.network/pricing/compare/#webapp"),
+              "https://spheronai.network/pricing/compare/#webapp"),
             (e.WHITEPAPER_PDF = "/Spheron-Whitepaper.pdf"),
             (e.SUPERNODERZ = "https://supernoderz.com/"),
             (e.EARNING = "https://b4t4v7fj3cd.typeform.com/spheronnode"),
-            (e.CONTACT_US = "mailto:info@spheron.network"),
-            (e.FIZZ_DOCS = "https://docs.spheron.network/fizz"),
+            (e.CONTACT_US = "mailto:info@spheronai.network"),
+            (e.FIZZ_DOCS = "https://docs.spheronai.network"),
             (e.FIZZ_REWARDS =
-              "https://docs.spheron.network/fizz/reward-details"),
-            (e.SPON_ELIGIBILITY_PAGE = "https://checker.spheron.network"),
+              "https://docs.spheronai.network"),
+            (e.SPON_ELIGIBILITY_PAGE = "https://checker.spheronai.network"),
             (e.SKYNET = "https://www.skynetxbt.ai"),
-            (e.FOUNDATION = "https://foundation.spheron.network"),
+            (e.FOUNDATION = "https://foundation.spheronai.network"),
             (e.TOKENOMICS =
-              "https://foundation.spheron.network/knowledge-gallery/token-utility"),
-            (e.LINKTREE = "https://linktr.ee/spheronfdn");
+              "https://foundation.spheronai.network/knowledge-gallery/token-utility"),
+            (e.LINKTREE = "https://linktr.ee/spheron_ai_network");
         })(a || (a = {}));
     },
     5568: function (e, t, n) {
@@ -1335,12 +1335,12 @@
             "IPFS, Decentralised Storage, Filecoin, IPFS Gateway, Polygon, Ethereum Storage, Polygon Storage, Arweave, Decentralised Compute, P2P Compute, P2P Cloud, Peer to Peer Cloud, Postgress SQL,  IPNS, Encryption, Access Control, Compute Marketplace, Persistent Storage, GPU, Bare metal, Server, Jupyter notebook, AI, Drupal, CMS, DePIN, DePINs, Decentralised Physical Infrastructure, DeVINs, Decentralised Virtual Infrastructure",
           icon: "/favicon.ico",
           metaImage: "/meta-og-img-2025.png?version=1",
-          url: "https://spheron.network",
+          url: "https://spheronai.network",
         },
         s =
           ((0, i.Z)((0, o.Z)({}, r), {
             title: "Pricing - Spheron Network",
-            metaImage: "https://spheron.network/metaimage-2.png",
+            metaImage: "https://spheronai.network/metaimage-2.png",
             keyword: "".concat(
               r.keyword,
               " Pricing, Low cost, Subscription, Onchain, Decentralized cloud storage, Decentralized app"
@@ -1348,7 +1348,7 @@
           }),
           (0, i.Z)((0, o.Z)({}, r), {
             metaImage:
-              "https://spheron.network/changelog/default-changelog-og-image-v2.png",
+              "https://spheronai.network/changelog/default-changelog-og-image-v2.png",
           }),
           (0, i.Z)((0, o.Z)({}, r), {
             desc: "Let our spaceship program be your launch pad to success, providing the extra boost your business needs through decentralized cloud infrastructure.",

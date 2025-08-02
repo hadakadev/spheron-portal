@@ -31,7 +31,7 @@
               d = void 0 === c || c;
             return (0, i.jsx)("div", {
               className: "learn_more_button_wrapper cursor-pointer ".concat(a),
-              // onClick: l,
+              onClick: l,
               role: l ? "button" : void 0,
               tabIndex: l ? 0 : void 0,
               onKeyPress: function (e) {
@@ -431,7 +431,6 @@
                     children: [
                       (0, i.jsx)(h, {
                         title: "Provider",
-                        learnMoreLink: r.rC.PROVIDER_APP,
                         description:
                           "Enterprise-grade data centers and mining farms offering high-performance compute resources.",
                         icon: (0, i.jsxs)("svg", {
@@ -478,7 +477,7 @@
                         onMouseLeave: function () {
                           return s(-1);
                         },
-                        active: 0 === t,
+                        active: 0,
                       }),
                       (0, i.jsx)(h, {
                         title: "Slark Nodes",
